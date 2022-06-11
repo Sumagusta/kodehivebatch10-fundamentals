@@ -4,7 +4,7 @@ public class Array1D {
 
 	public static void main(String[] args) {
 
-		String[] tokoBuah = {"Apel", "Klengkeng", "Jeruk", "Manggis", "Semangka", "Lemon"};
+		String[] tokoBuah = {"Apel", "Klengkeng", "Jeruk", "Manggis", "Semangka", "Lemon", "Anggur", "Salak"};
 		
 		String keranjang = tokoBuah[1];
 		
